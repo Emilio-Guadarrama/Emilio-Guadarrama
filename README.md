@@ -25,7 +25,7 @@ I design, build and fly **rocket flight computers** — from multilayer PCB layo
 <table>
   <tr>
     <td width="46%" valign="top">
-      <img src="assets/ignis-v2.jpg" alt="IGNIS v2.2 flight computer, assembled" width="100%">
+      <img src="assets/ignis-v2.png" alt="IGNIS v2.2 flight computer, assembled" width="100%">
     </td>
     <td valign="top">
 
