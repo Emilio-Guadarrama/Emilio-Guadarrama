@@ -92,5 +92,5 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 ---
 
 <p align="center">
-  <sub>Mexico · Spanish · English (C1) · German (Elementary)</sub>
+  <sub>Mexico</sub>
 </p>
