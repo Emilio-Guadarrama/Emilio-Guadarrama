@@ -34,11 +34,11 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 `ESP32-S3` `RFM95W LoRa 915 MHz` `GNSS` `IMU` `Barometer` `2× pyro` `4-layer PCB`
 
 - **v2.2** — primary flight computer at **LASC 2026**
-- **188 ms** barometric apogee-detection latency, measured from flight logs
-- **40.2 %** telemetry packet loss traced → dual-antenna ground station
+- Flight data analyzed in Python to validate apogee detection and telemetry
+- Telemetry results drove **MAGNIS**, a dual-antenna ground station
 - **v5** — all-SMD, turnkey JLCPCB assembly, Ø75 mm board
 
-**Repos →** [IGNIS v2](https://github.com/IgnitiaRocketLab/IGNIS-v2-FlightComputer) · [IGNIS v5](https://github.com/Emilio-Guadarrama/IGNIS-v5-FlightComputer)
+**Repos →** [IGNIS v2](https://github.com/IgnitiaRocketLab/IGNIS-v2-FlightComputer) · [IGNIS v5](https://github.com/Emilio-Guadarrama/IGNIS-v5-FlightComputer) · [MAGNIS ground station](https://github.com/Emilio-Guadarrama/MAGNIS-v1-GroundStation)
 
 </td>
   </tr>
