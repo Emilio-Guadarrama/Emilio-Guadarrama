@@ -90,7 +90,3 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 - **FIRST World Championship 2024** — qualified by winning the Hermosillo Regional
 
 ---
-
-<p align="center">
-  <sub>Mexico</sub>
-</p>
