@@ -88,5 +88,3 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 - **ENMICE 2025** — 2nd place, project presentation (WIRIKUTA 1.1 test bench)
 - **Tec de Monterrey Engineering Expo 2025** — 1st place, Physical Prototype
 - **FIRST World Championship 2024** — qualified by winning the Hermosillo Regional
-
----
