@@ -71,13 +71,13 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 | **Software** | Python (pandas, PySide6) · Verilog · LTspice · NI Multisim · Git |
 
 <p>
-  <img alt="Altium" src="https://img.shields.io/badge/Altium_Designer-242424?style=for-the-badge&logo=altiumdesigner&logoColor=f0f0f0">
-  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-242424?style=for-the-badge&logo=kicad&logoColor=f0f0f0">
-  <img alt="Espressif" src="https://img.shields.io/badge/ESP32--S3-242424?style=for-the-badge&logo=espressif&logoColor=f0f0f0">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-242424?style=for-the-badge&logo=cplusplus&logoColor=f0f0f0">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-242424?style=for-the-badge&logo=arduino&logoColor=f0f0f0">
-  <img alt="Python" src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=f0f0f0">
-  <img alt="Git" src="https://img.shields.io/badge/Git-242424?style=for-the-badge&logo=git&logoColor=f0f0f0">
+  <a href="https://www.altium.com/altium-designer"><img alt="Altium" src="https://img.shields.io/badge/Altium_Designer-242424?style=for-the-badge&logo=altiumdesigner&logoColor=f0f0f0"></a>
+  <a href="https://www.kicad.org"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-242424?style=for-the-badge&logo=kicad&logoColor=f0f0f0"></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32-s3"><img alt="Espressif" src="https://img.shields.io/badge/ESP32--S3-242424?style=for-the-badge&logo=espressif&logoColor=f0f0f0"></a>
+  <a href="https://isocpp.org"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-242424?style=for-the-badge&logo=cplusplus&logoColor=f0f0f0"></a>
+  <a href="https://www.arduino.cc"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-242424?style=for-the-badge&logo=arduino&logoColor=f0f0f0"></a>
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=f0f0f0"></a>
+  <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-242424?style=for-the-badge&logo=git&logoColor=f0f0f0"></a>
 </p>
 
 ---
