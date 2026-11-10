@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <rect x="0.5" y="0.5" width="1279" height="319" fill="#ffffff" stroke="#d8d8d8"/>
+  <g fill="none" stroke="#e4e4e4" stroke-width="3" stroke-linecap="square">
+    <path d="M760 60 H900 L940 100 H1110 L1150 60 H1240"/>
+    <path d="M760 100 H880 L920 140 H1060"/>
+    <path d="M760 140 H860 L900 180 H1000 L1040 220 H1240"/>
+    <path d="M760 260 H960 L1000 220"/>
+    <path d="M1100 140 V260 H1240"/>
+    <path d="M1180 100 V200"/>
+  </g>
+  <g fill="#ffffff" stroke="#b0b0b0" stroke-width="3">
+    <circle cx="760" cy="60" r="7"/><circle cx="760" cy="100" r="7"/><circle cx="760" cy="140" r="7"/><circle cx="760" cy="260" r="7"/>
+    <circle cx="1240" cy="60" r="7"/><circle cx="1060" cy="140" r="7"/><circle cx="1240" cy="220" r="7"/><circle cx="1000" cy="220" r="7"/>
+    <circle cx="1100" cy="140" r="7"/><circle cx="1240" cy="260" r="7"/><circle cx="1180" cy="100" r="7"/><circle cx="1180" cy="200" r="7"/>
+  </g>
+  <text x="64" y="84" font-family="Consolas, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" letter-spacing="2" fill="#5c5c5c">ELECTRONICS · EMBEDDED HARDWARE · PCB DESIGN</text>
+  <text x="62" y="158" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#070707">Emilio Guadarrama</text>
+  <text x="64" y="204" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" fill="#242424">Electronics &amp; Semiconductor Engineering · Tec de Monterrey</text>
+  <rect x="64.5" y="236.5" width="252" height="38" fill="#faf5ee" stroke="#e6d6bf"/>
+  <text x="82" y="261" font-family="Consolas, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" letter-spacing="1" fill="#b89060">IGNIS · LASC 2026</text>
+  <text x="340" y="261" font-family="Consolas, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" letter-spacing="1" fill="#5c5c5c">Ignitia Rocket Lab · VP &amp; Avionics Lead</text>
+</svg>
