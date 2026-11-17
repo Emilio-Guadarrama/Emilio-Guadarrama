@@ -144,18 +144,6 @@ My engineering portfolio: projects, experience and CV, in English and Spanish.
 - **Tec de Monterrey Engineering Expo 2025** — 1st place, Physical Prototype
 - **FIRST World Championship 2024** — qualified by winning the Hermosillo Regional
 
----
-
-## 🐍 Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emilio-Guadarrama/Emilio-Guadarrama/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emilio-Guadarrama/Emilio-Guadarrama/output/snake-light.svg">
-    <img alt="Contribution graph with a snake eating the contributions" src="https://raw.githubusercontent.com/Emilio-Guadarrama/Emilio-Guadarrama/output/snake-dark.svg" width="100%">
-  </picture>
-</p>
-
 <p align="center">
   <a href="https://emilio-guadarrama-portfolio.vercel.app">
     <picture>
