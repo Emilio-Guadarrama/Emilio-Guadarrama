@@ -1,10 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Emilio Guadarrama — Electronics & Semiconductor Engineering, Tec de Monterrey" src="assets/banner-dark.svg" width="100%">
-</picture>
+<p align="center">
+  <a href="https://emilio-guadarrama-portfolio.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+      <img alt="Emilio Guadarrama — Electronics & Semiconductor Engineering, Tec de Monterrey. Click to open the portfolio." src="assets/header-dark.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
-<p>
+<p align="center">
   <a href="https://emilio-guadarrama-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=f0f0f0"></a>
   <a href="https://www.linkedin.com/in/emilioguadarrama/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=f0f0f0"></a>
   <a href="mailto:emilio.guadarrama@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=maildotru&logoColor=f0f0f0"></a>
@@ -13,10 +17,25 @@
 
 I design, build and fly **rocket flight computers** — from multilayer PCB layout to lab bring-up, flight testing and failure analysis.
 
-- 🎓 **B.S. Electronics and Semiconductor Engineering**, Tecnológico de Monterrey, Campus Guadalajara (2025 – 2029)
-- 🚀 **Vice President & Electronics & Avionics Lead** at [Ignitia Rocket Lab](https://ignitia.space), a 30-member student rocketry team
-- 🛠️ Lead hardware designer of **IGNIS**, an open-source flight computer flown at **LASC 2026** in Brazil
-- 🤖 Before university: three seasons of **FIRST Robotics** (Team Daedalus 7102), from technician to Mechanical Lead
+## ⚡ Now
+
+<table>
+  <tr>
+    <td valign="top">
+
+- 🚀 **Vice President & Electronics & Avionics Lead** at [Ignitia Rocket Lab](https://ignitia.space), leading a 9-member electronics area in a 30-member student team
+- 🏆 **LASC 2026** · Brazil — 9th of 25, Rocket Challenge (1 km) · 9th of 50, Satellite Challenge as CanSat Mission Leader
+- 🛠️ **Building** the IGNIS flight computer and its MAGNIS ground station
+- 🎓 **Studying** B.S. Electronics and Semiconductor Engineering at Tecnológico de Monterrey, class of 2029
+- 🤖 **Before university:** three seasons of FIRST Robotics (Team Daedalus 7102), from technician to Mechanical Lead
+
+</td>
+    <td width="38%" valign="top">
+      <img src="assets/lasc-avionics-bay.jpg" alt="Final avionics-bay integration before launch at LASC 2026" width="100%"><br>
+      <sub>Final avionics-bay integration · LASC 2026</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,6 +79,42 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 
 ---
 
+## 📂 Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+**[IGNIS v5](https://github.com/Emilio-Guadarrama/IGNIS-v5-FlightComputer)**
+
+Sourcing-first redesign for turnkey assembly: 109 placements, 40 BOM lines, 37 of them stocked by a Mexican distributor.
+
+`SAM-M10Q` `LSM6DSV32X` `DPS368`
+
+</td>
+    <td width="33%" valign="top">
+
+**[MAGNIS v1](https://github.com/Emilio-Guadarrama/MAGNIS-v1-GroundStation)**
+
+Ground station for IGNIS: two LoRa receivers with antenna diversity, microSD logging and a live dashboard over USB and Wi-Fi.
+
+`2× RFM95W` `ESP32` `2-layer PCB`
+
+</td>
+    <td width="33%" valign="top">
+
+**[Portfolio](https://emilio-guadarrama-portfolio.vercel.app)**
+
+My engineering portfolio: projects, experience and CV, in English and Spanish.
+
+`React` `Vite` `Tailwind CSS`
+
+</td>
+  </tr>
+</table>
+
+---
+
 ## 🧰 Toolbox
 
 | Area | Tools |
@@ -88,3 +143,13 @@ Custom flight computer for student rocketry: it senses the flight, detects apoge
 - **ENMICE 2025** — 2nd place, project presentation (WIRIKUTA 1.1 test bench)
 - **Tec de Monterrey Engineering Expo 2025** — 1st place, Physical Prototype
 - **FIRST World Championship 2024** — qualified by winning the Hermosillo Regional
+
+<p align="center">
+  <a href="https://emilio-guadarrama-portfolio.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+      <img alt="Open the portfolio: emilio-guadarrama-portfolio.vercel.app" src="assets/footer-dark.svg" width="100%">
+    </picture>
+  </a>
+</p>
